@@ -1,0 +1,13 @@
+body{
+
+  font-family: 'Source Serif Pro', serif;
+  font-size: 18px;
+	color: #777777;
+	background-image: url("../images/backdrop.jpg")
+}
+
+.border-3 {
+  border-width:3px !important;
+}
+
+ 
